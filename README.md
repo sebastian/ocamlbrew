@@ -22,7 +22,7 @@ state.
 Using ocamlbrew is very easy.  In its most basic form, ocamlbrew can run in a
 completely automated fashion:
 
-    curl -kL https://raw.github.com/hcarty/ocamlbrew/master/ocamlbrew-install | bash
+    curl -kL https://raw.github.com/sebastian/ocamlbrew/master/ocamlbrew-install | bash
 
 See `RECIPES.md` for more installation options.
 

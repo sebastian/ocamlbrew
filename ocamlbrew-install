@@ -2,7 +2,7 @@
 
 # Derived from perlbrew-install
 
-OCAMLBREWURL=https://raw.github.com/hcarty/ocamlbrew/master/ocamlbrew
+OCAMLBREWURL=https://raw.github.com/sebastian/ocamlbrew/master/ocamlbrew
 : ${OCAMLBREW_BASE=$HOME/ocamlbrew}
 
 # Default command line flags
